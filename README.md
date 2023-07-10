@@ -7,7 +7,7 @@
 2. 個人化單一條件步道篩選 : 利用PyQt5介面操作，從MySQL或MongoDB抓取資料後再以PyQt5呈現篩選成果。
 3. 單一步道相關資料查詢 ： 在Line官方帳號輸入步道名稱即可從MySQL或MongoDB得到該步道相關資料。<br/>
 ------------------------------------------------------------------------------------------------
-以下分別介紹每個.py執行之成果以及其他檔案之用途 :
+以下分別介紹每個.py執行之成果 :
 ### hiking_mysql_module_single_selection.py
 以PyQt5顯示從MySQL個人化單一條件步道篩選之成果
 ### hiking_mysql_module_multiple_selection.py
@@ -24,3 +24,15 @@
 以PyQt5以及Line官方帳號顯示從MongoDB個人化多條件步道篩選之成果
 ### hiking_nosql_linebot.py
 以Line官方帳號顯示從MongoDB得到單一步道相關資料
+### hiking_Taiwan_distribution.py
+以PyQt5顯示matplotlib視覺化台灣步道地區分布的成果
+### hiking_difficulty.py
+以PyQt5顯示matplotlib視覺化台灣步道難易度分布的成果
+### hiking_distance.py
+以PyQt5顯示matplotlib視覺化台灣步道長度分布的成果
+### hiking_altitude.py
+以PyQt5顯示matplotlib視覺化台灣步道海拔高度分布的成果
+### hiking_height_different.py
+以PyQt5顯示matplotlib視覺化台灣步道高度落差分布的成果
+
+
