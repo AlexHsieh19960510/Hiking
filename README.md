@@ -5,7 +5,7 @@
 ## 程式設計概論
 1. 個人化多條件步道篩選 : 利用PyQt5介面操作，從MySQL或MongoDB抓取資料後再以PyQt5或是連動至Line官方帳號呈現篩選成果。
 2. 個人化單一條件步道篩選 : 利用PyQt5介面操作，從MySQL或MongoDB抓取資料後再以PyQt5呈現篩選成果。
-3. 單一步道相關資料查詢 ： 在Line官方帳號輸入步道名稱即可從MySQL或MongoDB得到該步道相關資料。
+3. 單一步道相關資料查詢 ： 在Line官方帳號輸入步道名稱即可從MySQL或MongoDB得到該步道相關資料。<br/>
 以下分別介紹每個.py執行之成果以及其他檔案之用途
 ### hiking_mysql_module_single_selection.py
 以PyQt5顯示從MySQL個人化單一條件步道篩選之成果
