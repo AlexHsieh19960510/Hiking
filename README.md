@@ -10,7 +10,7 @@
 3. 單一步道相關資料查詢 ： 在Line官方帳號輸入步道名稱即可從MySQL或MongoDB得到該步道相關資料。
 ------------------------------------------------------------------------------------------------
 ## 操作過程
-1. ![個人化多條件步道篩選成果以UI以及Line Robot Carousel呈現](https://drive.google.com/file/d/1fwROjA5lBsJZixbq7EL2_7eL_L1rZ7RU/view?usp=sharing)<br/>
+1. [個人化多條件步道篩選成果以UI以及Line Robot Carousel呈現](https://drive.google.com/file/d/1fwROjA5lBsJZixbq7EL2_7eL_L1rZ7RU/view?usp=sharing)<br/>
 2. [Line Robot操作以及單一步道相關資料查詢呈現](https://drive.google.com/file/d/1MKC3TED8MGNyuqs4PUsCW-xpmhLrsjJm/view?usp=sharing)
 
 ------------------------------------------------------------------------------------------------
